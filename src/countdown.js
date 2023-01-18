@@ -123,6 +123,9 @@ export default function Countdown() {
           }
         }
       });
+
+      //TODO: implement followtime into showTimer and add track new unique follower // Doesnt work with the tmi js lib. Same with custom channel point rewards
+      //TODO: if follow on play animation activated
     }
   }
 
